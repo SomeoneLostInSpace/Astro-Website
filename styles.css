@@ -1,10 +1,10 @@
 :root {
   color-scheme: dark;
-  --bg: #14191c;
+  --bg: #2d2d2d;
   --ink: rgb(255, 255, 255);
   --soft: rgba(255, 255, 255, 0.82);
   --muted: rgba(255, 255, 255, 0.62);
-  --line: rgba(255, 255, 255, 0.14);
+  --line: rgba(255, 255, 255, 0.161);
   --radius: 8px;
   --max-width: 880px;
 }
